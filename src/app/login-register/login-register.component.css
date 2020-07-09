@@ -1,0 +1,18 @@
+app-login-register {
+    background-color: #000;
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+mat-card-title {
+    padding-bottom: 1em;
+    text-align: center;
+}
+
+mat-card {
+    width: 50%;
+    margin: auto;
+    margin-top: 150px;
+}
